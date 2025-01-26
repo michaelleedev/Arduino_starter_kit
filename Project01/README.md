@@ -17,4 +17,6 @@ This was the first circuit I made using a switch, resistor, and LED. following t
 
 ### Demonstration
 
-![image](./media/switch_circuit_demo.MOV)
+<video width="320" heigh="240" controls>
+    <source src="./media/switch_circuit_demo.MOV" type="video/mp4">
+</video>
